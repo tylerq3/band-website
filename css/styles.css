@@ -1,0 +1,9 @@
+.sidebar {
+  color: blue;
+  font: bold;
+  font-style: italic;
+}
+
+.img {
+  float: right;
+}
